@@ -1,2 +1,2 @@
 # DizBanker
-day day up!
+2020.11.16 established!
