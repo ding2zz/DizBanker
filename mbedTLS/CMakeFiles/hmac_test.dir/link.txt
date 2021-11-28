@@ -1,1 +1,0 @@
-/usr/bin/cc   -rdynamic CMakeFiles/hmac_test.dir/hmac_test.c.o  -o hmac_test  -lmbedtls -lmbedcrypto -lmbedx509 

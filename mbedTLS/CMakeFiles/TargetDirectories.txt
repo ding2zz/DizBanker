@@ -1,3 +1,0 @@
-/home/dingz/Desktop/git/mbedTLS/CMakeFiles/rebuild_cache.dir
-/home/dingz/Desktop/git/mbedTLS/CMakeFiles/edit_cache.dir
-/home/dingz/Desktop/git/mbedTLS/CMakeFiles/hmac_test.dir
