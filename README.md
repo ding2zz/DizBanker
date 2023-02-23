@@ -1,2 +1,2 @@
 # banker
-welcomle!
+welcome!
